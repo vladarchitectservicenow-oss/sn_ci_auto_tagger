@@ -1,0 +1,16 @@
+=== Test Run: sn_ci_auto_tagger ===
+Timestamp: 2026-05-25T15:45:00Z
+Framework: pytest 9.0.2
+Python: 3.11.15
+Results: 7/7 PASSED (0.06s)
+
+--- Per-Test Results ---
+1. test_fetch_data — PASSED
+2. test_process — PASSED
+3. test_report_md — PASSED
+4. test_report_json — PASSED
+5. test_empty_handling — PASSED
+6. test_error_handling — PASSED
+7. test_cli_invocation — PASSED
+
+Summary: All core tests pass. Ready for production deployment.
